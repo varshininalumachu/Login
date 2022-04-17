@@ -1,0 +1,15 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 70vh;
+  width: 50vw;
+  border-radius: 10px;
+}
